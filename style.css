@@ -1,0 +1,44 @@
+body {
+    background-image: url('assets/alucinogeno.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  div#myCarousel{
+    height:300px;
+  }
+
+  
+
+  #imgCarrousel img {
+    height: 300px;
+    width: 100%;
+    opacity: 90%;
+  }
+
+
+/* esta es la columna que dice que es fungea */
+div#queFungea h2{
+color: white;
+font-weight: 600;
+}
+
+div#queFungea p{
+    color: white;
+    font-weight: 500;
+    }
+
+/* esta es la columna donde esta nulak */
+div#queNulak h2{
+    color: white;
+    font-weight: 600;
+    }
+    
+div#queFungea p{
+color: black;
+font-weight: 400;
+    }
+
+#fungiStudios{
+    background-color: black;
+}
