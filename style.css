@@ -6,14 +6,16 @@ body {
 
   div#myCarousel{
     height:300px;
+    width: 100%;
   }
 
   
 
   #imgCarrousel img {
     height: 300px;
-    width: 100%;
+    width: 900px;
     opacity: 90%;
+    
   }
 
 
