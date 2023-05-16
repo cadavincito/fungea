@@ -44,3 +44,12 @@ font-weight: 400;
 #fungiStudios{
     background-color: black;
 }
+
+#logo{
+  width:300px;
+  border-radius: 50%;padding: 21px;
+}
+
+#design{
+  width:315px;
+}
